@@ -1,7 +1,7 @@
-## Bienvenue sur la page de support d'Anecdotus
+## Anecdotus est maintenant disponible sur IOS et Android ! \o/
 
-Pour toute question, merci d'utiliser cette adresse email : 
-- contact.anecdotus@gmail.com
+Sur Android via le Play store : 
+https://play.google.com/store/apps/details?id=fr.anecdotes.entre.amis.anecdotes&hl=en
 
-
-A très bientôt !
+Sur IOS via l'App store : 
+https://apps.apple.com/us/app/anecdotus/id1498605459?l=fr&ls=1
